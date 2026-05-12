@@ -1,0 +1,5 @@
+{
+    "Kp": 0.5995,
+    "Kd": 0.5957,
+    "note": "Image-based NN. Use nn_weights.npz for dynamic gains."
+}
